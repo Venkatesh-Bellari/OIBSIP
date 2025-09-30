@@ -32,7 +32,7 @@ Problem-Solving: Enhanced my ability to troubleshoot and find efficient solution
 🔗 Connect with Me
 Feel free to connect with me:
 
-LinkedIn:www.linkedin.com/in/venkatesh-b-79ba04255
+LinkedIn:www.linkedin.com/in/venkatechie
 Email: venkateshbelari@gmail.com
 🌟 Final Thoughts
 Completing this internship with Oasis Infobyte was a fantastic experience that boosted my confidence and skills in web development. I’m excited to apply what I’ve learned in future projects and continue growing as a developer.
